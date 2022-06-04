@@ -1,0 +1,21 @@
+{
+  "name": "node-ts-boilerplate",
+  "version": "1.0.0",
+  "description": "Minimalistic project template to jump-start a Node.js application in TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oleh-polishchuk/node-ts-boilerplate.git"
+  },
+  "author": "oleh.polishchuk.ck@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.39"
+  }
+}
